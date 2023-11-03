@@ -1,4 +1,6 @@
 # demo-repos
 This is my first Git Repository.
 <br>
-Author - shivam rajput (beginner coder)
+Author - shivam (beginner coder)
+Hi this is shivam rajput
+I am a beginner in coding and i have created this repository to learn more about git and github.
